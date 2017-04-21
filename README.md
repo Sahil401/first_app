@@ -1,3 +1,3 @@
-#Ruby on Rails first tutorial
+# Ruby on Rails first tutorial
 
-This is hte first application for rails tutorial
+This is the first application for rails tutorial
